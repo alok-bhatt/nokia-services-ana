@@ -1,4 +1,0 @@
-[submodule "nokia-distro"]
-	path = nokia-distro
-	url = https://github.com/alok-bhatt/nokia-distro.git
-	branch = branch_ana
